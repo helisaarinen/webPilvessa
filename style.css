@@ -1,7 +1,12 @@
 body {
     background: linear-gradient(to right, #ffcc00, #ff6600);
-            /* Määrittele värit ja liukuvärin suunta (tässä vaakasuora) */
-            height: 100vh; /* Tämä asettaa taustavärin täyttämään koko näytön korkeuden */
+            /* Määrittele värit ja liukuvärin suunta (tässä vaakasuora)  
+    height: 100vh; Tämä asettaa taustavärin täyttämään koko näytön korkeuden */
+
+
+                background: radial-gradient(circle at 90% 10%, #ffcc00, #ff6600);
+            height: 100vh;
+
 }
 
 h1 {
