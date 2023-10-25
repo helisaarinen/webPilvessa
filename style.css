@@ -1,5 +1,5 @@
 body {
-    background-color: #FFF411;
+    background-color: radial-gradient(circle at 90% 10%, #ffcc00, #ff6600), #d2e2f2;
     font-family: Roboto, sans-serif;
 }
 
