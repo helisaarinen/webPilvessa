@@ -4,9 +4,11 @@ body {
     height: 100vh; Tämä asettaa taustavärin täyttämään koko näytön korkeuden */
 
 
-                background: radial-gradient(circle at 90% 10%, #21A7F3, #82FB36, #FF48CB);
+/*                background: radial-gradient(circle at 90% 10%, #21A7F3, #82FB36, #FF48CB);
             height: 100vh;
-
+*/
+background: pink;
+    
 }
 
 h1 {
