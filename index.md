@@ -1,5 +1,5 @@
 Github sivu, jossa Jekyll teema
 
 ##Tervetuloa!
-[Klikkaa itsesi kuukkeliin](www.google.fi)
+[Klikkaa itsesi kuukkeliin](https://www.google.fi)
 löksdjfölkjsdfölfkjölksdf
