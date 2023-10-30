@@ -1,6 +1,6 @@
 body {
-         background: linear-gradient(90deg, royalblue, aqua, rgb(0, 255, 213), aqua, royalblue);
-    font-family: Roboto, sans-serif;
+        background: radial-gradient(circle at 90% 10%, #ffcc00, #ff6600), #d2e2f2;
+        font-family: Roboto, sans-serif;
 }
 
 h1 {
