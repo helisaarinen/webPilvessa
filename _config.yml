@@ -1,6 +1,6 @@
 title: Jekyll:iä käyttävä sivusto testing
 description: Tervetuloa sivustolle!
-theme: jekyll-theme-hacker
+plugins: jekyll-theme-hacker
 
 header_pages:
 - index.md
