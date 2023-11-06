@@ -1,6 +1,6 @@
 title: Jekyll:iä käyttävä sivusto testing
 description: Tervetuloa sivustolle!
-plugins: jekyll-theme-prasad
+plugins: jekyll-theme-cayman
 
 header_pages:
 - index.md
